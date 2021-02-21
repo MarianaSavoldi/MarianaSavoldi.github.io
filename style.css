@@ -1,0 +1,61 @@
+h2 {
+    color: #7CC6FE;
+    font-family: monospace;
+    font-size: 2em;
+}
+
+p, ul {
+    font-style: italic;
+    font-family: sans-serif;
+    background-color: #08090A;
+    padding: 15px 50px;
+    border-radius: 4px;
+    max-width: 90%;
+}
+
+body {
+    color: #5DFDCB;
+    background-color:#8789C0;;
+}
+
+.informacoes{
+    padding: 30px 15px;
+    width: 90%;
+}
+
+.space-line {
+    line-height: 25px;
+    text-decoration: none;
+}
+
+.um {
+    font-size: 25px;
+}
+
+.dois {
+    font-size: 23px;
+}
+
+.tres {
+    font-size: 21px;
+}
+
+.quatro {
+    font-size: 19px;
+}
+
+.caixa-info {
+    width: 30%;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+}
+
+.sobre {
+    padding-left: 20%;
+}
+.p-nome {
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
